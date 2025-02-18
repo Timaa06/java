@@ -3,7 +3,7 @@ package MonProjet;
 
 import java.util.Scanner;
 
-public class Main {
+public class Main {                                                                                                                                                                                                         
     public static void main(String[] args) {
         GestionEtudiants gestion = new GestionEtudiants();
         Scanner scanner = new Scanner(System.in);
