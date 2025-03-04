@@ -21,6 +21,8 @@ public class App {
             System.out.println("Que voulez-vous faire ?");
             System.out.println("1 - Ajouter un utilisateur");
             System.out.println("2 - Supprimer un utilisateur");
+            System.out.println("3 - Lister les utilisateurS");
+            System.out.println("4 - Quitter");
             System.out.print("Choix : ");
             int choix = scanner.nextInt();
             scanner.nextLine(); // Éviter les erreurs de buffer
